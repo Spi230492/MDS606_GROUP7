@@ -1,4 +1,4 @@
-## Hypothesis:
+## Hypothesis 1 :
 Deep learning techniques, such as Convolution neural network (CNN) or Long Short-Term Memory (LSTM) networks, can improve fraud detection performance in sequential data by capturing temporal dependencies and detecting complex fraudulent behaviour.
 
 ## Data collection
