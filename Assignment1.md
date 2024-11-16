@@ -1,7 +1,7 @@
-##Hypothesis:
+## Hypothesis:
 Deep learning techniques, such as Convolution neural network (CNN) or Long Short-Term Memory (LSTM) networks, can improve fraud detection performance in sequential data by capturing temporal dependencies and detecting complex fraudulent behaviour.
 
-##Data collection
+## Data collection
 Pre-collected dataset will be used for data analysis
 https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023
 
