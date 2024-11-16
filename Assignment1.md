@@ -1,3 +1,14 @@
+
+## Topic
+## AI in financial fraud detection
+
+## Research Question
+How AI based approaches improve the performance of financial transaction fraud detection systems, and what are the major attributes who play role in system effectiveness?
+
+## Hypothesis 2
+
+Advance Machine learning models (like random forest or XGBOOST) can significantly decrease the number of false positives in fraud detection compared to traditional rule-based systems, by identifying subtle patterns in transaction data.
+
 ## Hypothesis 1 :
 Deep learning techniques, such as Convolution neural network (CNN) or Long Short-Term Memory (LSTM) networks, can improve fraud detection performance in sequential data by capturing temporal dependencies and detecting complex fraudulent behaviour.
 
